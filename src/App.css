@@ -76,7 +76,7 @@ header {
 }
 
 .product-container {
-  margin-top: 20px;
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -84,10 +84,10 @@ header {
 }
 
 .product {
-  margin-top: 20px;
+  margin-top: 25px;
   display: flex;
   width: 1000px;
-  height: 550px;
+  height: 560px;
 }
 
 .product-image,
@@ -110,7 +110,7 @@ header {
 
 
 .product-detail-div {
-  padding: 10px;
+  padding: 0px 10px;
 }
 
 .product-detail h2 {
