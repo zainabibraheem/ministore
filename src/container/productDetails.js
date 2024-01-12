@@ -31,7 +31,7 @@ function ProductDetails() {
 
   return (
     <div className='product-container'>
-      <h2>PRODUCT DETAIL:</h2>
+      
       <div className='product-wrap'> 
       <div className='product' >
         <div className='product-image'>
