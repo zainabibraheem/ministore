@@ -24,7 +24,7 @@ header {
 }
 
 .products-div {
-  padding: 100px 0 30px 0;
+  padding: 30px 0 30px 0;
   display: flex;
   flex-wrap: wrap;
   gap: 25px;
@@ -68,7 +68,7 @@ header {
 }
 
 .card-price {
-  margin-top: 5px;
+  margin-top: 15px;
 }
 
 .card-category {
@@ -84,7 +84,7 @@ header {
 }
 
 .product {
-  margin-top: 25px;
+  margin-top: 22px;
   display: flex;
   width: 1000px;
   height: 560px;
